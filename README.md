@@ -21,13 +21,3 @@ The full real affiliate marketing kit: one zip per industry (21) plus
 assets). Each niche kit has real buyer profiles, pain points, hooks, objection
 handling, and compliance-checked copy — the same kits live on the site at
 `/affiliates`.
-
-## Rules for anything built from this
-
-- Never invent a customer, a dollar outcome, a results claim, or a specific time
-  saved. Any hypothetical example in the source material must stay framed as
-  hypothetical, not presented as a real testimonial.
-- Don't claim "approved by Digistore24" without checking current marketplace status.
-- Price, product IDs, and checkout URLs are real and live as of the file dates
-  above — double check against the live site (profitiqs.com) if anything looks like
-  it might have changed.
